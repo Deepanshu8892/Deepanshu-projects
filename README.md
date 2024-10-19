@@ -1,2 +1,2 @@
 # Deepanshu-clone project
-this projrct is a amazon clone
+This is a amazon clone
